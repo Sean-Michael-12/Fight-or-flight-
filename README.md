@@ -1,1 +1,2 @@
-# Fight-or-flight-
+# lemonade-stand-sim
+An idle game with twist
